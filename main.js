@@ -229,53 +229,53 @@ function createCalendarEvent(newEvent) {
   try {
     switch (space) {
       case "B2-101階梯教室":
-        var calendar = CalendarApp.getCalendarById("c_g62jno9rpp2ofd34b801lsa80g@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-105創客空間":
-        var calendar = CalendarApp.getCalendarById("c_n6jntln0r75n98ga8ansgvdpug@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-201講義教室":
-        var calendar = CalendarApp.getCalendarById("c_qo31q6u3fpp7b4bkjiu3t1qvcs@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-202講義教室":
-        var calendar = CalendarApp.getCalendarById("c_259r0o259ch71smi5srihn3brs@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-203講義教室":
-        var calendar = CalendarApp.getCalendarById("c_3s5hk709bapn9gbpjse611g4ps@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-204講義教室":
-        var calendar = CalendarApp.getCalendarById("c_ejjjhaqndrbkpiau78cogcbki0@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-205講義教室":
-        var calendar = CalendarApp.getCalendarById("c_aufsutsbtddmvfmsjfrq00h04g@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-206講義教室":
-        var calendar = CalendarApp.getCalendarById("c_4r8dvfml3m8da5rb4jm2o54odk@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-211講義教室":
-        var calendar = CalendarApp.getCalendarById("c_9m3faqdo282skngdceq4a0pqd4@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-213講義教室":
-        var calendar = CalendarApp.getCalendarById("c_1jeb5n0gq4sp029fnvcilbvsno@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-214講義教室":
-        var calendar = CalendarApp.getCalendarById("c_7q9k761fp81g53d909u9jn9kok@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         // Logger.log(calendar);
         break;
       case "B2-215講義教室":
-        var calendar = CalendarApp.getCalendarById("c_m9p6euenahljtht0uu7876b6qs@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-216講義教室":
-        var calendar = CalendarApp.getCalendarById("c_uufepo395piq3kh2q2eb1gq9h4@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-302研討室":
-        var calendar = CalendarApp.getCalendarById("c_qnkl8i9n7l6fu0n1q80n685ghc@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-309研討室":
-        var calendar = CalendarApp.getCalendarById("c_vu3injmrgg0ood0bnqmpi1i338@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       case "B2-313系會議室":
-        var calendar = CalendarApp.getCalendarById("c_vmptj016on2231q1odh69r8f3o@group.calendar.google.com");
+        var calendar = CalendarApp.getCalendarById("CALENDAR_ID");
         break;
       default:
         break;
